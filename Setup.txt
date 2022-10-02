@@ -1,0 +1,13 @@
+*
+**
+***
+1. Install jdk
+2. Install Netbeans
+3. keep '.jar' file and 'lib' in a same folder
+4. Install XMAAP
+5. Open XMAAP Control Panel Click Start Apache,MySql
+6. Go to MySql Admin
+7. Create DataBase with the name 'sainik_data' then Import 'sainik_data.sql' in XMAAP
+8. Run .jer file
+9. In Any Problen Contact With Creator 
+**
